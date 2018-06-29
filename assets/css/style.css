@@ -1,0 +1,52 @@
+.chemElement-btn,
+#addElement {
+    margin: 5px 10px 5px 0;
+    padding: 5px 10px 5px 10px;
+    background-color: rgb(163, 19, 19);
+    text-align: center;
+    color: lightcyan;
+    font-size: 16px;
+    border-radius: 6px;
+    border: 2px solid lightcyan;
+}
+
+button:focus {
+    background-color: darkblue;
+    outline: none;
+    border: none;
+}
+
+#ce-form {
+    height: 300px;
+    width: 250px;
+    float: right;
+}
+
+label {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#ce-input {
+    margin: 5px 5px 5px 0;
+    width: 190px;
+}
+
+#chemElements-view {
+    width: 905;
+}
+
+.element {
+    margin: 10px 20px 10px 0;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+p {
+    margin: 20px 20px 5px 0;
+}
+
+img {
+    max-height: 200px;
+}
+
