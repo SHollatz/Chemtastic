@@ -8,5 +8,5 @@ This app can be used for inquiry based learning in chemistry education. The low 
 Click on the provided buttons on the top to check out gifs that show the element's behavior or use in the industry. 
 On the right you can insert further elements to create new buttons.
 
-## Check out the diployed app:
+## Go check it out!
 https://shollatz.github.io/Chemtastic/
